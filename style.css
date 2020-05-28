@@ -60,3 +60,20 @@ body {
 .status.red {
     background: #F24130;
 }
+
+.highlight {
+    background-color: #3D272244;
+}
+
+.card, .dropzone {
+    transition: .3s;
+}
+
+.is-dragging {
+    cursor: move;
+    opacity: 0.3;
+}
+
+.over {
+ background-color: #428C4D22;
+}
